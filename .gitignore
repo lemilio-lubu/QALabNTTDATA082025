@@ -1,0 +1,40 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Archivos de Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Archivos de NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+target/
+build/
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
